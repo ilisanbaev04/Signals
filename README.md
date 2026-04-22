@@ -17,7 +17,7 @@
 - Matplotlib – построение графиков
 - NumPy – численные расчёты
 
-##  Requirments 
+##  Requirements 
 pip install -r requirements.txt
 pip install PyQt5 matplotlib numpy
 
